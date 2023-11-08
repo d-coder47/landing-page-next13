@@ -77,7 +77,7 @@ const Camp = () => {
             adventure
           </p>
           <Image
-            src="/qoute.svg"
+            src="/quote.svg"
             alt="camp-2"
             width={186}
             height={219}
